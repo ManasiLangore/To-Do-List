@@ -1,2 +1,16 @@
-# To-Do-List
-My first GitHub repository and my first web project — a simple To-Do List web application built using HTML, CSS, and JavaScript. Users can add, edit, and delete tasks. This project helped me practice fundamental web development skills and get hands-on experience with front-end technologies.
+# 📝 To-Do List  
+
+My first GitHub repository and web project — a simple **To-Do List** web application built using **HTML, CSS, and JavaScript**. 🚀  
+
+## 📌 Features  
+- ➕ Add new tasks  
+- ✏️ Edit existing tasks  
+- 🗑️ Delete tasks  
+- ✅ Mark tasks as completed  
+- 📱 Responsive design for mobile and desktop  
+
+## 🎯 What I Learned  
+- Structuring a web page using **HTML**  
+- Styling with **CSS** for a better user experience  
+- Implementing interactivity using **JavaScript**  
+- Managing DOM elements dynamically  
